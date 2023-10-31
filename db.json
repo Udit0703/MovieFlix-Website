@@ -1,0 +1,111 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "director": "Bob Persichetti",
+      "rating": "8.4",
+      "posterImageUrl": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "description": "The film tells the story of banker Andy Dufresne (Tim Robbins), who is sentenced to life in Shawshank State Penitentiary for the murders of his wife and her lover, despite his claims of innocence.",
+      "director": "Frank Darabont",
+      "rating": "9.6",
+      "posterImageUrl": "https://m.media-amazon.com/images/I/719E7y49YQL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "director": "Christopher Nolan",
+      "rating": "8.8",
+      "posterImageUrl": "https://www.joblo.com/wp-content/uploads/2010/05/inception-poster1-1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "POKEMON Detective Pikachu",
+      "description": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.",
+      "director": "Rob Letterman",
+      "rating": "6.6",
+      "posterImageUrl": "https://m.media-amazon.com/images/M/MV5BMDkxNzRmNDYtMDY0OS00N2JhLTkzZWUtMWE3MzZkNDk1MmJiXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Toy Story 4",
+      "description": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+      "director": "Josh Cooley",
+      "rating": "7.8",
+      "posterImageUrl": "https://www.themoviedb.org/t/p/original/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Spider-Man: Far From Home",
+      "description": "Following the events of Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+      "director": "Jon Watts",
+      "rating": "7.5",
+      "posterImageUrl": "https://rukminim2.flixcart.com/image/850/1000/jxw5g280/poster/e/n/6/medium-spider-man-far-from-home-poster-for-room-office-13-inch-x-original-imafg93teqbvkkqj.jpeg?q=20"
+    },
+    {
+      "id": 8,
+      "title": "Human Capital",
+      "description": "The lives of two different families collide when their children begin a relationship that leads to a tragic accident.",
+      "director": "Marc Meyers",
+      "rating": "6.2",
+      "posterImageUrl": "images/humancapital.jpg"
+    },
+    {
+      "id": 9,
+      "title": "I Still Believe",
+      "description": "The true-life story of Christian music star Jeremy Camp and his journey of love and loss that looks to prove there is always hope.",
+      "director": " The Erwin Brothers",
+      "rating": "6.5",
+      "posterImageUrl": "images/istillbelieve.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Lost Girls",
+      "description": "Determined to find her missing daughter, a desperate woman launches a personal investigation that leads police to the unsolved cases of murdered sex workers.",
+      "director": "Liz Garbus",
+      "rating": "6.1",
+      "posterImageUrl": "images/lostgirls.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Onward",
+      "description": "Two elven brothers embark on a quest to bring their father back for one day.",
+      "director": "Dan Scanlon",
+      "rating": "7.4",
+      "posterImageUrl": "images/onward.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Hunt",
+      "description": "Twelve strangers wake up in a clearing. They don't know they've been chosen - for a very specific purpose - The Hunt.",
+      "director": "David S.F. Wilson",
+      "rating": "4.5",
+      "posterImageUrl": "images/thehunt.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Invisible Man",
+      "description": "When Cecilia's abusive ex takes his own life and leaves her his fortune, Cecilia works to prove that she is being hunted by someone nobody can see.",
+      "director": "Leigh Whannell",
+      "rating": "7.1",
+      "posterImageUrl": "images/theinvisibleman.jpg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "6"
+    }
+  ]
+}
